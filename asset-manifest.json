@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.a2248e47.chunk.css",
-    "main.js": "/react-deploy/static/js/main.43a0c0fa.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.43a0c0fa.chunk.js.map",
+    "main.css": "/react-deploy/static/css/main.301a05fb.chunk.css",
+    "main.js": "/react-deploy/static/js/main.327248ee.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.327248ee.chunk.js.map",
     "runtime-main.js": "/react-deploy/static/js/runtime-main.80f4f7c8.js",
     "runtime-main.js.map": "/react-deploy/static/js/runtime-main.80f4f7c8.js.map",
     "static/js/2.a107b927.chunk.js": "/react-deploy/static/js/2.a107b927.chunk.js",
     "static/js/2.a107b927.chunk.js.map": "/react-deploy/static/js/2.a107b927.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "static/css/main.a2248e47.chunk.css.map": "/react-deploy/static/css/main.a2248e47.chunk.css.map",
+    "static/css/main.301a05fb.chunk.css.map": "/react-deploy/static/css/main.301a05fb.chunk.css.map",
     "static/js/2.a107b927.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.a107b927.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.80f4f7c8.js",
     "static/js/2.a107b927.chunk.js",
-    "static/css/main.a2248e47.chunk.css",
-    "static/js/main.43a0c0fa.chunk.js"
+    "static/css/main.301a05fb.chunk.css",
+    "static/js/main.327248ee.chunk.js"
   ]
 }
